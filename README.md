@@ -6,7 +6,7 @@
 
 ### More About Me
 
-- I am on Core OS team, in Azure.
-  - We provide networking support and functionality for Microsoft products.
+- I am on the Core OS team, in Azure.
+  - We provide networking functionality and support for Microsoft products.
 - I am the architect of, and developer on [MsQuic](https://github.com/microsoft/msquic/).
 - I am an editor of the [QUIC-LB](https://datatracker.ietf.org/doc/html/draft-ietf-quic-load-balancers) IETF draft.
