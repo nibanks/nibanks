@@ -4,4 +4,9 @@
 - 🙊 Chat with me on [Discord](https://discord.gg/YGAtCwTSsc)
 - ❤️ If you like my work, you can [buy me a drink](http://buymeacoff.ee/nickbanks)
 
-I am on the Datapath and Transport team, in Core OS, in Azure. I am the architect of, and developer on [MsQuic](https://github.com/microsoft/msquic/)
+### More About Me
+
+- I am on Core OS team, in Azure.
+  - We provide networking support and functionality for Microsoft products.
+- I am the architect of, and developer on [MsQuic](https://github.com/microsoft/msquic/).
+- I am an editor of the [QUIC-LB](https://datatracker.ietf.org/doc/html/draft-ietf-quic-load-balancers) IETF draft.
