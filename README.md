@@ -10,4 +10,4 @@
   - We provide networking functionality and support for Microsoft products.
 - I am the lead of the network Transports team, which owns TCP, QUIC and various other protocols and APIs.
 - I am the architect of, and developer on [MsQuic](https://github.com/microsoft/msquic/).
-- I am an editor of the [QUIC-LB](https://datatracker.ietf.org/doc/html/draft-ietf-quic-load-balancers) IETF draft.
+- I am an editor of the [QUIC Load Balancers](https://datatracker.ietf.org/doc/html/draft-ietf-quic-load-balancers) and [QUIC Retry Offload](https://datatracker.ietf.org/doc/html/draft-ietf-quic-retry-offload) IETF drafts.
