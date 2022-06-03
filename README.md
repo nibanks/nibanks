@@ -1,4 +1,4 @@
-### Hi, I'm Nick! I am a Principal Software Engineer at Microsoft.
+### Hi, I'm Nick! I am a Principal Software Engineering Lead at Microsoft.
 
 - ️🐦 Follow me on [Twitter](https://twitter.com/gamernb) and [Linkedin](https://www.linkedin.com/in/nicholas-banks-a3977520/)
 - 🙊 Chat with me on [Discord](https://discord.gg/YGAtCwTSsc)
@@ -8,5 +8,6 @@
 
 - I am on the Core OS team, in Azure.
   - We provide networking functionality and support for Microsoft products.
+- I am the lead of the network Transports team, which owns TCP, QUIC and various other protocols and APIs.
 - I am the architect of, and developer on [MsQuic](https://github.com/microsoft/msquic/).
 - I am an editor of the [QUIC-LB](https://datatracker.ietf.org/doc/html/draft-ietf-quic-load-balancers) IETF draft.
