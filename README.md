@@ -6,7 +6,7 @@
 
 ### More About Me
 
-- I am on the Core OS team, in Azure.
+- I am on the Core OS team, in Windows/Azure.
   - We provide networking functionality and support for Microsoft products.
 - I am the lead of the network Transports team, which owns TCP, QUIC and various other protocols and APIs.
 - I am the architect of [MsQuic](https://github.com/microsoft/msquic/).
