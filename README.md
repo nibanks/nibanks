@@ -1,4 +1,4 @@
-### Hi, I'm Nick! I am a Software Engineering Lead at Netflix.
+### Hi, I'm Nick! I am a Software Engineering at Netflix.
 
 - ️🐦 Follow me on [Twitter](https://twitter.com/gamernb) and [Linkedin](https://www.linkedin.com/in/nicholas-banks-a3977520/)
 - 🙊 Chat with me on [Discord](https://discord.gg/YGAtCwTSsc)
